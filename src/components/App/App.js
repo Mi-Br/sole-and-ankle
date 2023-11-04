@@ -19,6 +19,8 @@ const App = () => {
 
 const Main = styled.main`
   padding: 64px 32px;
+  /* height: 100%; */
+  /* overflow: auto; */
 `;
 
 export default App;

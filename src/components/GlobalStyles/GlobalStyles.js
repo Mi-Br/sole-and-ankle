@@ -64,10 +64,14 @@ table {
     float above the app.
   */
   isolation: isolate;
+  max-width: 1440px;
+  margin-inline: auto;
+  outline: 1px solid red;
 }
 
 html, body, #root {
   height: 100%;
+
 }
 `;
 
